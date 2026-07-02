@@ -106,7 +106,7 @@ export default function About() {
                 </h4>
 
                 <p className="text-gray-600 dark:text-gray-300">
-                  React • Next.js • TypeScript • Tailwind CSS
+                  React • Next.js • JavaScript • TypeScript • Tailwind CSS • Bootstrap CSS
                 </p>
               </div>
 
@@ -125,7 +125,7 @@ export default function About() {
                 </h4>
 
                 <p className="text-gray-600 dark:text-gray-300">
-                  Looking for Frontend Developer Opportunities
+                  Looking for MERN Stack Developer | Full Stack Developer | Frontend Developer Opportunities
                 </p>
               </div>
 

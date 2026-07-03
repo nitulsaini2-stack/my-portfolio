@@ -12,7 +12,7 @@ const education = [
     "Completed Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE), with a strong foundation in programming, web development, data structures, and software engineering.",
   },
   {
-    year: "2019 - 2021",
+    year: "2020 - 2021",
     degree: "Senior Secondary (12th)",
     institute: "Janta Inter College , Nagal (SRE)",
     description:

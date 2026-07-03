@@ -12,7 +12,7 @@ const projects = [
   image: "/projects/project1.png",
   description:
     "A modern responsive e-commerce frontend built with Next.js. The project includes product listings, category browsing, reusable components, responsive layouts, and a clean user interface for an enhanced shopping experience.",
-  tech: ["Next.js", "TypeScript", "CSS"],
+  tech: ["Next.js", "TypeScript", "Tailwind CSS"],
   github: "https://github.com/nitulsaini2-stack/my-e-com",
   live: "https://my-e-com-frontend.vercel.app",
 },
@@ -21,7 +21,7 @@ const projects = [
   image: "/projects/project2.png",
   description:
     "A modern responsive landing page built with Next.js and TypeScript. The project features reusable components, clean UI, responsive layouts, and smooth navigation to showcase an AI platform with a professional user experience.",
-  tech: ["Next.js", "TypeScript"],
+  tech: ["Next.js", "TypeScript", "Tailwind CSS"],
   github: "https://github.com/nitulsaini2-stack/botmakers-landing-page",
   live: "https://botmakers-landing-page.vercel.app",
 },
@@ -40,7 +40,7 @@ const projects = [
   image: "/projects/project4.png",
   description:
     "A responsive college website built with React. The project features multiple pages, reusable components, smooth navigation, and a clean, mobile-friendly interface to showcase college information.",
-  tech: ["React", "JavaScript", "CSS"],
+  tech: ["React", "JavaScript", "Bootstrap CSS"],
   github: "https://github.com/nitulsaini2-stack/college-static-website/tree/main",
   live: "https://collegestaticwebsite-cat-3fb824.netlify.app",
 },
@@ -49,7 +49,7 @@ const projects = [
   image: "/projects/project5.png",
   description:
     "A responsive e-commerce website built with React. The project features reusable components, product listings, category sections, a modern UI, and a mobile-friendly design for a smooth shopping experience.",
-  tech: ["React", "JavaScript", "CSS"],
+  tech: ["React", "JavaScript", "Bootstrap CSS"],
   github: "https://github.com/nitulsaini2-stack/E-commerce-project-using-vite/tree/main",
   live: "https://myfirstproject-e-commerce156e8.netlify.app",
 },
@@ -58,7 +58,7 @@ const projects = [
   image: "/projects/project6.png",
   description:
     "A responsive landing page replica built as an assignment using Next.js and TypeScript. The project recreates the original design with reusable components, responsive layouts, and a clean, modern user interface.",
-  tech: ["Next.js", "TypeScript"],
+  tech: ["Next.js", "TypeScript", "Tailwind CSS"],
   github: "https://github.com/nitulsaini2-stack/simple/tree/gym",
   live: "https://simple-two-omega.vercel.app/",
 }
